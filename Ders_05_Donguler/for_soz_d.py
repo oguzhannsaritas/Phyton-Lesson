@@ -1,0 +1,2 @@
+for n in range(-9, 21, +3):      # range (başlangıç değeri / son değer / arttırma yada azaltma değeri )
+    print(n, end=" ")           # yani başlangıç değeri 21 olup son deger 0 olup 3 er defa azaltıyor
